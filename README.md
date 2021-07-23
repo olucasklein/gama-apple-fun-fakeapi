@@ -1,6 +1,6 @@
 <h1 align="center">Apple-Fun - FakeApi</h1>
 <p align="center">Projeto desenvolvido durante o Hiring coders da VTEX com Gama Academy</p>
-<p align="center">Preview: hhttps://apple-fun.netlify.app//</p>
+<p align="center">Preview: https://apple-fun.netlify.app//</p>
 <img src="./apple-fun1.png">
 
 📖 - FakeApi criada para o Projeto para o Desafio 2 do #hiringcoders, com o intúito de desenvolver um sistema de E-commerce, que guarde dados de clientes, endereços, produtos, devidamente
