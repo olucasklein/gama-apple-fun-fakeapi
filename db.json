@@ -1,0 +1,67 @@
+{
+    "stock": [
+      {
+        "id": 1,
+        "amount": 3
+      },
+      {
+        "id": 2,
+        "amount": 5
+      },
+      {
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "id": 4,
+        "amount": 1
+      },
+      {
+        "id": 5,
+        "amount": 5
+      },
+      {
+        "id": 6,
+        "amount": 10
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Iphone 7 Plus 128 GB - Preto Matte",
+        "price": 2800,
+        "image": "https://i.postimg.cc/RFjwx09y/iphone-7plus.png"
+      },
+      {
+        "id": 2,
+        "title": "Iphone 8 Plus 128 GB - Cinza Espacial",
+        "price": 3450,
+        "image": "https://i.postimg.cc/TYQhrPFx/iphone-8plus.png"
+      },
+      {
+        "id": 3,
+        "title": "Iphone X 256 GB - Cinza Espacial",
+        "price": 3430,
+        "image": "https://i.postimg.cc/s2WV0f6v/iphone-10-black.png"
+      },
+      {
+        "id": 4,
+        "title": "Iphone XR 128 GB - Cinza Espacial",
+        "price": 3553,
+        "image": "https://i.postimg.cc/v8qpfFhj/iphonexr.png"
+      },
+      {
+        "id": 5,
+        "title": "Iphone 11 256 GB - Cinza Espacial",
+        "price": 5144,
+        "image": "https://i.postimg.cc/YqStBzDc/iphone-11.png"
+      },
+      {
+        "id": 6,
+        "title": "Iphone 12 128 GB - Roxo",
+        "price": 8499,
+        "image": "https://i.postimg.cc/x8cpt85Z/iphone-12-purple.png"
+      }
+    ]
+  }
+  
