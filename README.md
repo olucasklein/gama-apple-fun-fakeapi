@@ -8,4 +8,4 @@ estruturados no localstorage. Para este projeto, foi desenvolvido uma loja de f�
 
 📖 - FakeApi  criada com o site <a href="https://my-json-server.typicode.com/">My Json Server</a>, utilizada para funcionar como uma "database" dos produtos
 
-📖 - <a href="https://github.com/olucasklein/gama-apple-fun-fakeapi">Link do Repositório da Projeto Apple-Fun</a>  
+📖 - Link do Repositório do <a href="https://github.com/olucasklein/gama-apple-fun-fakeapi">Projeto Apple-Fun</a>  
