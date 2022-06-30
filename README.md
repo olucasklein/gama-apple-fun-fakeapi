@@ -1,5 +1,5 @@
 <h1 align="center">Apple-Fun - FakeApi</h1>
-<p align="center">Projeto desenvolvido durante o Hiring coders da VTEX com Gama Academy</p>
+<p align="center">Projeto desenvolvido durante o Hiring coders da VTEX com Gama Academy!</p>
 <p align="center">Preview: https://apple-fun.netlify.app/</p>
 <img src="./apple-fun1.png">
 
